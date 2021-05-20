@@ -27,7 +27,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autores
 ---
-MARCOS VINICIUS RAMOS ARAUJO
+- MARCOS VINICIUS RAMOS ARAUJO.
+- .
+- .
 
 Licença
 MIT License
