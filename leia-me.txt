@@ -1,0 +1,5 @@
+# Instalar o tkinter
+sudo apt-get install python3-tk
+
+# Instalar o flexx
+pip install flexx
